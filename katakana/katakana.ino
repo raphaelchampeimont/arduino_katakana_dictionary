@@ -49,7 +49,7 @@ void setup() {
 
 void loop() {
   int selectorRawValue = analogRead(SELECTOR_PIN);
-  int selectedPage = map(selectorRawValue, 0, 1023, 0, N_PAGES-1);
+  int selectedPage = map(selectorRawValue, 0, 1020, 0, N_PAGES-1);
   if (lastSelectedPage != selectedPage) {
     lastSelectedPage = selectedPage;
 
