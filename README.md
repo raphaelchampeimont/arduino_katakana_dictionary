@@ -5,10 +5,12 @@ While playing with my LCD screen (provided in the Arduino starter kit), I discov
 
 YouTube video showing the result: https://www.youtube.com/watch?v=QiTmMt8uY5c
 
-Here is the corresponding wiring to do:
-![Circuit and page 1](/screenshots/page1.jpg?raw=true)
-
 Here are some screenshots of what happens when you turn the knob:
+![Page 1](/screenshots/page1.jpg?raw=true)
+
 ![Page 5](/screenshots/page5.jpg?raw=true)
 
 ![Page 14](/screenshots/page14.jpg?raw=true)
+
+Clearer view on the wiring if you want to reproduce it:
+![Circuit](/screenshots/circuit.jpg?raw=true)
