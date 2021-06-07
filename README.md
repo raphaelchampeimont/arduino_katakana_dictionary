@@ -12,5 +12,5 @@ Here are some screenshots of what happens when you turn the knob:
 
 ![Page 14](/screenshots/page14.jpg?raw=true)
 
-Clearer view on the wiring if you want to reproduce it:
-![Circuit](/screenshots/circuit.jpg?raw=true)
+Schematic:
+![Circuit](/schematic.png?raw=true)
